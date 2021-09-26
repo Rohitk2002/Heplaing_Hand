@@ -7,7 +7,7 @@
 <img src="OnBording_Screen (4).jpg" width="280px" alt="Screenshot" />
 <img src="Main_screen.jpg" width="280px" alt="Screenshot" />
 <img src="Build_Bed_Screen.jpg" width="280px" alt="Screenshot" />
-<img src="Build_Bes_Screen (2).jpg" width="280px" alt="Screenshot" />
+<img src="Build_Bed_Screens.jpg" width="280px" alt="Screenshot" />
 <img src="Finding_a_Bed.jpg" width="280px" alt="Screenshot" />
 <img src="Retrive_Data_Output.jpg" width="280px" alt="Screenshot" />
 
