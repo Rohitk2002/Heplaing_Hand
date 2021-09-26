@@ -1,6 +1,6 @@
 # Heplaing_Hand
 
-<img src="Splash_Screen.jpg" width="280px" alt="Screenshot" />
+<img src="Splash_screen.jpg" width="280px" alt="Screenshot" />
 <img src="OnBording_Screen.jpg" width="280px" alt="Screenshot" />
 <img src="OnBording_Screen (2).jpg" width="280px" alt="Screenshot" />
 <img src="OnBording_Screen (3).jpg" width="280px" alt="Screenshot" />
