@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Helping Hand</string>
+    <string name="logo_name">Covid</string>
+    <string name="slogan_name">A Man In Need, A Bed In Deed</string>
+    <string name="skip_btnn">Skip</string>
+
+    //Boarding Screen
+    <string name="first_slide_title">For You</string>
+    <string name="second_slide_title">For Me</string>
+    <string name="third_slide_title">For Us</string>
+    <string name="fourth_slide_title">For Everyone</string>
+
+    //Description BS
+    <string name="first_slide_desc">This is a time for mutual collaboration and leveraging human connection to make the lives of COVID patients and their families a tad easier.</string>
+    <string name="second_slide_desc">It takes time to get leads and our volunteers make hundreds of calls to make sure to verify them on the same day.</string>
+    <string name="third_slide_desc">As the second phase of the COVID-19 vaccination drive progresses, the primary challenge for people has shifted to finding an appointment slot.</string>
+    <string name="fourth_slide_desc">We want the people in India to know that they are not alone, and we will fight this together.</string>
+
+    //BS Button
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    //Login
+    <string name="start">Find A Bed In Your City Is Easy Now</string>
+    <string name="star_s">All You Need Is Bed To Be Safe If Yes You Are At Right Place</string>
+    <string name="how">How We Work</string>
+    <string name="forget">Provide your account\'s email for which you want to reset your password!</string>
+    <string name="make_selection">Select which contact detail should we use to rest your password</string>
+    <string name="credentials">Your identity has been verified Set your New Password</string>
+
+    <style name="login">Login</style>
+
+    //Dashboard Silde Menu
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

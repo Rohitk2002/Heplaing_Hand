@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Profile">
+
+            <menu>
+
+                <item
+                    android:id="@+id/iteam1"
+                    android:icon="@drawable/user"
+                    android:title="Login" />
+                <item
+                    android:id="@+id/iteam2"
+                    android:icon="@drawable/profile"
+                    android:title="Profile" />
+                <item
+                    android:id="@+id/iteam3"
+                    android:icon="@drawable/exit"
+                    android:title="Logout" />
+
+            </menu>
+
+        </item>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Settings">
+
+            <menu>
+
+                <item
+                    android:id="@+id/iteam4"
+                    android:icon="@drawable/info"
+                    android:title="Adout" />
+                <item
+                    android:id="@+id/iteam5"
+                    android:icon="@drawable/ic_baseline_settings_24"
+                    android:title="Setting" />
+                <item
+                    android:id="@+id/iteam6"
+                    android:icon="@drawable/theme"
+                    android:title="Theme" />
+
+            </menu>
+
+        </item>
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="About Us">
+
+            <menu>
+
+                <item
+                    android:id="@+id/iteam7"
+                    android:icon="@drawable/info"
+                    android:title="How We Work" />
+                <item
+                    android:id="@+id/iteam8"
+                    android:icon="@drawable/ic_baseline_settings_24"
+                    android:title="Contact Us" />
+                <item
+                    android:id="@+id/iteam9"
+                    android:icon="@drawable/theme"
+                    android:title="Donate Us" />
+
+            </menu>
+
+        </item>
+
+
+    </group>
+
+</menu>

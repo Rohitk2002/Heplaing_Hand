@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086992917797",
+    "firebase_url": "https://find-a-bed-default-rtdb.firebaseio.com",
+    "project_id": "find-a-bed",
+    "storage_bucket": "find-a-bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086992917797:android:d580cdb420c747f67ce6cc",
+        "android_client_info": {
+          "package_name": "com.rohitkashyap.HelpingHand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086992917797-9moo3j8173k7o40ns0gc4vq5be7nnujg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkxXEH-Y3sROAgedQ-Ua8MynaE2pi5tgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086992917797-9moo3j8173k7o40ns0gc4vq5be7nnujg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
