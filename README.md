@@ -11,7 +11,7 @@
 <img src="Finding_a_Bed_screen.jpg" width="280px" alt="Screenshot" />
 <img src="Retrive_Data_Output.jpg" width="280px" alt="Screenshot" />
 
-I AM Rohit Kashyap From Bennett University
+I AM Rohit Kashyap From Bennett University And My Mail Id Is "RohitKashyap20005@gmail.com"
 
 Q1 What is the app about and its purpose?
 
